@@ -1,5 +1,5 @@
 
-# **Long Polling Pub-Sub System**
+# **Publish Subscribe System**
 
 ## **Project Structure**
 
